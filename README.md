@@ -1,6 +1,5 @@
 # Tic Tac Toe Game
 
-![Tic Tac Toe Banner](https://via.placeholder.com/1200x300?text=Tic+Tac+Toe+Game)  
 *An engaging two-player game built with HTML, CSS, and JavaScript*
 
 ---
